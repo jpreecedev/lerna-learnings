@@ -61,6 +61,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
+    "header": "^1.0.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-hot-loader": "^4.3.12"

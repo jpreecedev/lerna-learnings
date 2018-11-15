@@ -1,0 +1,12 @@
+{
+  "name": "header",
+  "version": "1.0.0",
+  "description": "The header",
+  "author": "Jon Preece <jonpreece@rentalcars.com>",
+  "homepage": "https://github.com/jpreecedev/webpack-4-scratch/tree/master/packages/header#readme",
+  "license": "ISC",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

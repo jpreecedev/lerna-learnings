@@ -3,6 +3,7 @@ import * as ReactDOM from 'react-dom'
 
 import './global/styles.scss'
 
+import Header from 'header'
 import Layout from './components/Layout'
 import App from './components/App'
 
@@ -12,6 +13,7 @@ if (module.hot) {
 
 ReactDOM.render(
   <Layout>
+    <Header />
     <App />
   </Layout>,
   document.getElementById('root')
